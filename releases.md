@@ -1,7 +1,7 @@
 # Open vStorage Release Notes
 
 The current stable release is **Eugene**. The latest daily code changes are packaged and can be installed using our unstable package repository.
-The under development release is **Fargo**
+The under development release is **Fargo**.
 
 ## Fargo (Under development)
 * Release Name: Fargo
@@ -40,8 +40,8 @@ The GUI is adjusted to better highlight clusters which are spread across multipl
 ##### Tag based domains
 The failure domain concept has been replaced by tag based domains. ASD nodes and storage routers can now be tagged with one or more tags. Tags can be used to identify a rack, site, power feed, etc.
 
-##### ETCD
-ETCD is used to store the configuration settings for all components.
+##### Arakoon
+Arakoon is used to store the configuration settings for all components.
 
 ##### Logs and statistics to Redis
 Logs and statistics are now pushed on to a Redis queue. The Redis queue can be popped to retrieved the values and allows to be easily integrated with standard monitoring tools.
