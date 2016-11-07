@@ -5,9 +5,9 @@ The under development release is **Fargo**.
 
 ## Fargo (Under development)
 * Release Name: Fargo
-* Release Type: -
-* Release Date: Planned for End Sept 2016
-* Status: -
+* Release Type: Release Candaidate
+* Release Date: Planned for Mid December 2016
+* Status: [Release Candaidate 1](https://github.com/openvstorage/home/releases/tag/2.7.4) (Released Nov 4, 2016)
 
 #### Version of the different packages:
 * Not applicable yet.
