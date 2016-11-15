@@ -54,7 +54,7 @@ The documentation Open vStorage is split into different [GitBooks](https://www.g
 A quick starting guide can be found [here](https://openvstorage.gitbooks.io/openvstorage/content/Installation/index.html). The above links are  pointing to the documentation for the latest version. Documentation for previous versions can be found [here](https://openvstorage.gitbooks.io/openvstorage/content/olderreleases.html).
 
 # Release Notes
-The release notes for the different Open vStorage releases can be found [here](releases.md).
+The release notes for the different Open vStorage releases can be found [here](releases.md). Track what will be released next [here](https://waffle.io/openvstorage/home).
 
 
 # Nightly tests
