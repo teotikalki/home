@@ -59,8 +59,10 @@ The release notes for the different Open vStorage releases can be found [here](r
 
 # Nightly tests
 
-A view on the different sets of Nightly test runs can be found [here](http://testrail.openvstorage.com/index.php?/runs/overview/10).
-Email address ovs-guest@openvstorage.com with password 0vsgu3st should allow you to login and view the results
+A view on the different sets of Nightly test runs for [Unstable](http://testrail.openvstorage.com/index.php?/projects/overview/16) and 
+[Fargo](http://testrail.openvstorage.com/index.php?/projects/overview/17).
+
+Email address ovs-guest@openvstorage.com with password 0vsgu3st should allow you to login and view the results.
 
 # Community
 
