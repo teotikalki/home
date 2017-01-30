@@ -8,6 +8,7 @@ The under development release is **Fargo**.
 * Release Type: Release Candidate
 * Release Date: -
 * Status: 
+ * [Release Candidate 2](https://github.com/openvstorage/home/releases/tag/2.7.10) (Released Jan 27, 2017) [Added Features](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC3%22+label%3Atype_feature) |  [Added Improvements](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC3%22+label%3Atype_enhancement+) |  [Solved Bugs](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC3%22+label%3Atype_bug+)
  * [Release Candidate 2](https://github.com/openvstorage/home/releases/tag/2.7.9) (Released Jan 12, 2017) [Added Features](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC2%22+label%3Atype_feature) |  [Added Improvements](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC2%22+label%3Atype_enhancement+) |  [Solved Bugs](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC2%22+label%3Atype_bug+)
  * [Release Candidate 1](https://github.com/openvstorage/home/releases/tag/2.7.4) (Released Nov 4, 2016)
 
