@@ -7,21 +7,21 @@ The current stable release is **Fargo**. The latest daily code changes are packa
 * Release Type: GA
 * Release Date: April 25, 2017
 * Status: 
-  * [GA](https://github.com/openvstorage/home/releases/tag/2.8.2) (Apr 25, 2017) [Added Features](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC4%22+label%3Atype_feature) |  [Added Improvements](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC4%22+label%3Atype_enhancement+) |  [Solved Bugs](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC4%22+label%3Atype_bug+)
+  * [GA](https://github.com/openvstorage/home/releases/tag/2.8.2) (Released Apr 25, 2017) [Added Features](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC4%22+label%3Atype_feature) |  [Added Improvements](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC4%22+label%3Atype_enhancement+) |  [Solved Bugs](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC4%22+label%3Atype_bug+)
   * [Release Candidate 3](https://github.com/openvstorage/home/releases/tag/2.7.10) (Released Jan 27, 2017) [Added Features](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC3%22+label%3Atype_feature) |  [Added Improvements](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC3%22+label%3Atype_enhancement+) |  [Solved Bugs](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC3%22+label%3Atype_bug+)
   * [Release Candidate 2](https://github.com/openvstorage/home/releases/tag/2.7.9) (Released Jan 12, 2017) [Added Features](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC2%22+label%3Atype_feature) |  [Added Improvements](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC2%22+label%3Atype_enhancement+) |  [Solved Bugs](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+RC2%22+label%3Atype_bug+)
   * [Release Candidate 1](https://github.com/openvstorage/home/releases/tag/2.7.4) (Released Nov 4, 2016)
 
 #### Version of the different packages:
-* openvstorage: 2.8.2.1-1
+* openvstorage: 2.8.2-1
 * alba: 1.3.14
 * arakoon: 1.9.17
-* openvstorage-backend: 1.8.2.1-1
-* openvstorage-core: 2.7.10.1-1
+* openvstorage-backend: 1.8.1-1
+* openvstorage-core: 2.8.2-1
 * openvstorage-cinder-plugin: 1.2.2-fargo.1-1
-* openvstorage-sdm: 1.7.2.1-1
-* volumedriver-no-dedup-base: 6.16.0-0
-* volumedriver-no-dedup-server: 6.16.0-0
+* openvstorage-sdm: 1.7.1-1
+* volumedriver-no-dedup-base: 6.16.1-0
+* volumedriver-no-dedup-server: 6.16.1-0
 
 #### Content
 ##### NC-ECC presets (global and local policies)
