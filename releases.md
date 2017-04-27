@@ -1,6 +1,6 @@
 # Open vStorage Release Notes
 
-The current stable release is **Fargo**. The latest daily code changes are packaged and can be installed using our unstable package repository. The under development release is **Gilbert**.
+The current stable open-soruce release is **Fargo**. The latest daily code changes are packaged and can be installed using our unstable package repository. The under development release is **Gilbert**.
 
 ## Fargo (GA)
 * Release Name: Fargo
