@@ -4,7 +4,7 @@ The current stable open-soruce release is **Fargo**. The latest daily code chang
 
 ## Fargo Updates 1
 * Release Name: Fargo Update 1
-* Release Type: BUg fix release
+* Release Type: Bug fix release
 * Release Date: August 28, 2017
 * Status: 
   * [Fargo Updates 1](https://github.com/openvstorage/home/releases/tag/2.9.5) (Released Aug 28, 2017) [Added Features](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22H%22+label%3Atype_feature) |  [Added Improvements](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22H%22+label%3Atype_enhancement+) |  [Solved Bugs](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22H%22+label%3Atype_bug+)
