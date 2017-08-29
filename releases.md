@@ -2,9 +2,37 @@
 
 The current stable open-soruce release is **Fargo**. The latest daily code changes are packaged and can be installed using our unstable package repository. The under development release is **Gilbert**.
 
-## Fargo (GA)
+## Fargo Updates 1
+* Release Name: Fargo Update 1
+* Release Type: BUg fix release
+* Release Date: August 28, 2017
+* Status: 
+  * [Fargo Updates 1](https://github.com/openvstorage/home/releases/tag/2.9.5) (Released Aug 28, 2017) [Added Features](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22H%22+label%3Atype_feature) |  [Added Improvements](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22H%22+label%3Atype_enhancement+) |  [Solved Bugs](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22H%22+label%3Atype_bug+)
+  
+#### Version of the different packages:
+* openvstorage: 2.9.5-1
+* alba: 1.3.25
+* arakoon: 1.9.22
+* openvstorage-backend: 1.9.1-1
+* openvstorage-core: 2.9.5-1
+* openvstorage-cinder-plugin: 1.2.2-fargo.1-1
+* openvstorage-sdm: 1.9.0-1
+* volumedriver-no-dedup-base: 6.17.1-0
+* volumedriver-no-dedup-server: 6.17.1-0
+
+#### Content
+##### Updatable fragment size
+The fragment size of an ALBA backend preset can now be updated through the ALBA CLI. Existing object will not be automatically rewritten with the new fragment size.
+
+##### Bug Fixes
+For a list of all bux fixes see [Solved Bugs](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22H%22+label%3Atype_bug+) link.
+
+
+## Release History
+
+### Fargo (GA)
 * Release Name: Fargo
-* Release Type: GA
+* Release Type: Major Update
 * Release Date: April 25, 2017
 * Status: 
   * [GA](https://github.com/openvstorage/home/releases/tag/2.8.2) (Released Apr 25, 2017) [Added Features](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+GA%22+label%3Atype_feature) |  [Added Improvements](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+GA%22+label%3Atype_enhancement+) |  [Solved Bugs](https://github.com/issues?utf8=%E2%9C%93&q=user%3Aopenvstorage+milestone%3A%22Fargo+GA%22+label%3Atype_bug+)
@@ -58,8 +86,6 @@ Logs and statistics are now pushed on to a Redis queue. The Redis queue can be p
 
 ##### Support for Ubuntu 16.04
 Ubuntu 16.04 is now supported.
-
-## Release History
 
 ### Eugene (Jan 12 2016)
 * Release Name: Eugene
